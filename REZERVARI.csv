@@ -1,0 +1,2 @@
+Client{nume='popescu', prenume='Ion', parola='1234', tipClient=NORMAL}|SpectacolRuleaza{data='12-06-2020', ora=' ora 15:00', sala=model.Sala@9e89d68}|12-06-2020| ora 15:00|14.0
+Client{nume='popescu', prenume='Ion', parola='1234', tipClient=NORMAL}|SpectacolRuleaza{data='12-06-2020', ora=' ora 15:00', sala=Sala{numeSala='Polivalenta;', Locatie='Cladirea C2, Etajul 3;', nrTotalLocuri=100, nrLocuriReducere=20}}|12-06-2020| ora 15:00|14.0

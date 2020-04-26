@@ -1,0 +1,4 @@
+Horatiu;Malaele;10000000000000;1,2,3
+Mihai;Bendeac;20000000000000;1,2,6
+Caramitru; Ion;30000000000000;
+Sonia; Cluceru;40000000000000;5,6
