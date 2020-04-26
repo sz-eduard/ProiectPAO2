@@ -1,0 +1,7 @@
+1. Clientul isi poate rezerva un loc la un spectacol(Rezerva)
+2. Clientul isi poate cumpara un loc la un specatcol(RezervaValid)
+3. Clientul poate sa vada distributia actorilor din spectacol
+4. Clientul poate sa isi aleag un actor si sa vada in ce specatole a jucat
+5. Clientul are posiblitatea de a vedea toate spectacolele, sau, doar specatacolele care ruleaza.
+6. Clientul poate beneficia de o reducere (elev, student, pensioanar, perosoana cu handicap)
+7. Clientul poate vedea locatia salii unde se tine spectacolul
